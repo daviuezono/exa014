@@ -66,6 +66,12 @@ a:hover {
 	background: #000000;
 }
 
+#header-wrapper2 {
+	overflow: hidden;
+	height: 150px;
+	background: #000000;
+}
+
 #header {
 	overflow: hidden;
 	width: 1000px;
@@ -78,7 +84,7 @@ a:hover {
 
 #logo {
 	float: left;
-	width: 300px;
+	width: 400px;
 	margin: 0;
 	padding: 0;
 	color: #FFFFFF;
@@ -169,7 +175,7 @@ a:hover {
 
 #menu {
 	float: right;
-	width: 500px;
+	width: 595px;
 	height: 90px;
 	margin: 0 auto;
 	padding: 0;
@@ -469,11 +475,11 @@ a:hover {
 	letter-spacing: 1px;
 	line-height: normal;
 	text-align: center;
-	color: #2A2A2A;
+	color: #FFFFFF;
 }
 
 #footer a {
-	color: #2A2A2A;
+	color: #EEEEEE;
 }
 
 #banner {
